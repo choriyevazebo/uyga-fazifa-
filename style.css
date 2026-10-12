@@ -1,0 +1,25 @@
+.box {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: Arial;
+}
+
+h2 {
+  text-align: left;
+}
+
+button {
+  float: right;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+p {
+  color: gray;
+}
